@@ -33,7 +33,6 @@ This project aims to analyze student engagement and predict churn (dropout) for 
 - John Syllah
 - Tracy Reson
 - Afra Falakh
-- Eluit Cruz
 
 ---
 
