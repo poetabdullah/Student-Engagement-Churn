@@ -55,8 +55,6 @@ In the first week, we focused on cleaning the raw dataset to ensure it was suita
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
 
-**[Week 1 Report](./Week%201%20-%20Data%20Cleaning%20and%20Validation/Week%201%20Report.pdf)**
-
 ---
 
 ## 🔍 Week 2: Exploratory Data Analysis (EDA)
@@ -75,9 +73,8 @@ In the second week, we conducted an in-depth Exploratory Data Analysis (EDA) to 
   - Conducted cohort analysis to track engagement over time.
 
 ### Tools & Libraries
-- Python (Seaborn, Matplotlib, Scikit-learn)
+- Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn)
 
-**[Week 2 Report](./Week%202%20-%20Exploratory%20Data%20Analysis/Week%202%20Report.pdf)**
 
 ---
 
@@ -100,24 +97,32 @@ The focus of week three was to develop a robust predictive model for identifying
 - Python (Scikit-learn, TensorFlow, Keras)
 - Google Colab
 
-**[Week 3 Report](./Week%203%20-%20Chrun%20Analysis%20and%20Predictive%20Modeling/Week%203%20Report.pdf)**
-
 ---
 
-## 📝 Week 4: Recommendations & Presentation
-### Key Insights & Recommendations
-- **Engagement Boost**:
-  - Target interventions for age groups with lower engagement.
-  - Increase support for underperforming opportunity categories.
-- **Churn Reduction**:
-  - Implement re-engagement strategies for users inactive for over 126 days.
-  - Promote diverse learning opportunities to increase participation.
-- **Future Enhancements**:
-  - Leverage advanced models for time-series engagement data and use more variables to predict churn.
+## 📝 Week 4: Recommendations & Strategic Engagement
 
-**Deliverables**:
-- [Team Presentation Slides](./Week%204%20-%20Recommendations%20&%20Presentation/Team%20Presentation%20Slides.pptx)
-- [Team Presentation Video](./Week%204%20-%20Recommendations%20&%20Presentation/Team%20Presentation%20Video.mp4)
+### Overview
+In the final week of our analysis, we developed targeted strategies to boost student engagement and reduce churn. By leveraging insights from previous analyses, we implemented a recommendation system that focuses on personalized re-engagement, course suggestions, and incentives for participation. These strategies are designed to enhance user retention on the platform by delivering tailored interventions.
+
+### Key Strategies Implemented
+
+1. **Personalized Re-Engagement Alerts**
+   - **Objective**: To re-engage inactive or low-engagement students.
+   - **Approach**: Students with low engagement scores or more than 30 days of inactivity receive automated re-engagement notifications. These alerts are designed to remind them of the value of the platform and encourage them to resume their activities.
+   - **Example Recommendation**: "Send re-engagement email"
+
+2. **Targeted Course Suggestions**
+   - **Objective**: To increase student engagement by suggesting relevant learning opportunities.
+   - **Approach**: For students showing signs of churn or low participation in courses, we recommend popular courses tailored to their interests and past activities. This personalized approach helps in aligning course offerings with student preferences, thereby enhancing their engagement.
+   - **Example Recommendation**: "Recommend popular courses based on interests"
+
+3. **Incentivize Participation**
+   - **Objective**: To encourage first-time or increased participation in learning opportunities.
+   - **Approach**: Students with zero course participation receive incentives like reward points or badges to motivate them to join their first course or activity. This strategy is aimed at fostering initial engagement and encouraging continued participation.
+   - **Example Recommendation**: "Offer incentives for first-time participation"
+
+
+By implementing these personalized strategies, the platform can proactively address student churn, enhance engagement, and foster a more interactive learning environment. The recommendation system serves as a scalable approach to optimize student interactions based on real-time engagement data.
 
 ---
 
@@ -149,6 +154,7 @@ The focus of week three was to develop a robust predictive model for identifying
    - Open `Week 1 Code.ipynb` to explore data cleaning.
    - Open `Week 2 Code.ipynb` for EDA.
    - Open `Week 3 Code Module 1.ipynb` & `Module 2.ipynb` for Churn Analysis.
+   - Open `Week 4 Code.py` for recommendations.
 
 ---
 
