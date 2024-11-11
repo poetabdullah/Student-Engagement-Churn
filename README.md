@@ -86,7 +86,7 @@ The focus of week three was to develop a robust predictive model for identifying
   - Created new engagement metrics and defined churn indicators based on engagement duration, frequency, and inactivity.
   - Labeled students as "churned" or "non-churned" based on thresholds derived from EDA insights.
 - **Model Training**:
-  - Trained multiple models: Logistic Regression, Decision Tree, Random Forest, SVM, K-Nearest Neighbor, and Artificial Neural Networks (ANN), Recurrent Neural Networks (RNN), Autoencoder, and Multilayer preceptron.
+  - Trained multiple models: Logistic Regression, Decision Tree, Random Forest, SVM, K-Nearest Neighbor, and Artificial Neural Networks (ANN), Recurrent Neural Networks (RNN), Autoencoder, and Multilayer perceptron.
   - In the trial method, before implementation, we achieved the best results with an ensemble Voting Classifier, yielding 98% accuracy.
 - **Model Evaluation**:
   - Evaluated models using metrics such as Precision, Recall, F1 Score, and Confusion Matrix.
