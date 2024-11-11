@@ -91,8 +91,8 @@ The focus of week three was to develop a robust predictive model for identifying
   - Created new engagement metrics and defined churn indicators based on engagement duration, frequency, and inactivity.
   - Labeled students as "churned" or "non-churned" based on thresholds derived from EDA insights.
 - **Model Training**:
-  - Trained multiple models: Logistic Regression, Decision Tree, Random Forest, SVM, and Artificial Neural Networks (ANN).
-  - Achieved the best results with an ensemble Voting Classifier, yielding 98% accuracy.
+  - Trained multiple models: Logistic Regression, Decision Tree, Random Forest, SVM, K-Nearest Neighbor, and Artificial Neural Networks (ANN), Recurrent Neural Networks (RNN), Autoencoder, and Multilayer preceptron.
+  - In the trial method, before implementation, we achieved the best results with an ensemble Voting Classifier, yielding 98% accuracy.
 - **Model Evaluation**:
   - Evaluated models using metrics such as Precision, Recall, F1 Score, and Confusion Matrix.
   - The ANN model demonstrated high predictive power for complex engagement patterns.
@@ -114,7 +114,7 @@ The focus of week three was to develop a robust predictive model for identifying
   - Implement re-engagement strategies for users inactive for over 126 days.
   - Promote diverse learning opportunities to increase participation.
 - **Future Enhancements**:
-  - Leverage advanced models like Recurrent Neural Networks (RNN) for time-series engagement data.
+  - Leverage advanced models for time-series engagement data and use more variables to predict churn.
 
 **Deliverables**:
 - [Team Presentation Slides](./Week%204%20-%20Recommendations%20&%20Presentation/Team%20Presentation%20Slides.pptx)
