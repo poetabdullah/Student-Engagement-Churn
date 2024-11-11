@@ -159,6 +159,6 @@ By implementing these personalized strategies, the platform can proactively addr
 ---
 
 ## 📌 Conclusion
-This project successfully utilized data science techniques to analyze student engagement and predict churn within an educational platform. The insights derived can be used to optimize retention strategies and enhance user experience.
+This project successfully utilized data analysis and machine learning techniques to analyze student engagement and predict churn within an educational platform. The insights derived can be used to optimize retention strategies and enhance user experience.
 
 Feel free to explore the repository and provide your feedback!
