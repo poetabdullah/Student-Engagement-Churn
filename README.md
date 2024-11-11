@@ -20,7 +20,6 @@ This project aims to analyze student engagement and predict churn (dropout) for 
 ├── Week 4 - Recommendations & Presentation
 │   ├── Evaluation.docx
 │   ├── Team Presentation Slides.pptx
-│   ├── Team Presentation Video.mp4
 │   ├── Week 4 Code.py
 └── README.md
 ```
