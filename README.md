@@ -25,9 +25,9 @@ This project aims to analyze student engagement and predict churn (dropout) for 
 ```
 
 ## 👥 Team Members
-- Abdullah Imran
+- Abdullah Imran - Technical Guide (main)
 - Matthew Ojo
-- Krishin Tharani
+- Krishin Tharani - Technical Guide
 - Emani Likhita
 - Sangeeta Sahoo
 - John Syllah
