@@ -1,4 +1,4 @@
-# Students Churn Data Analysis
+# Student Engagement Churn (Data Analysis + Machine Learning)
 
 ## 📊 Project Overview
 This project aims to analyze student engagement and predict churn (dropout) for the Excelerate AI Data Analyst Internship program. The analysis spans four weeks of data-driven exploration, cleaning, and modeling to identify factors contributing to student engagement and disengagement. By leveraging data science techniques, the project provides actionable insights to enhance student retention and engagement strategies.
