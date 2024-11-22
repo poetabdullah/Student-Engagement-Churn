@@ -142,7 +142,7 @@ By implementing these personalized strategies, the platform can proactively addr
 ## ⚙️ How to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/poetabdullah/Students-Churn-Data-Analysis.git
+   git clone https://github.com/poetabdullah/Student-Engagement-Churn.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
